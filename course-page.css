@@ -1,0 +1,1251 @@
+
+html {
+	font-size:53%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.course-page-Y8c {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.course-page-Y8c .auto-group-pcbe-eSY {
+  width: 100%;
+  height: 200.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU {
+  /* width: 116.9rem; */
+  width: 100%;
+  height: 5.9rem;
+  position: absolute;
+  left: 13.6rem;
+  top: 2.7rem;
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-1-h9v {
+  margin-right: 47.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-1-h9v .frame-r2p {
+  margin-right: 0.8rem;
+  width: 7.2rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-1-h9v .e-school-Zxp {
+  margin-top: 0.1rem;
+  font-size: 2.4857rem;
+  font-weight: 700;
+  line-height: 1.185;
+  color: #56548c;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-4-g1r {
+  margin: 0.8rem 0;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-4-g1r .auto-group-ebvc-DXa {
+  box-sizing: border-box;
+  padding: 1rem 3.9rem 0.9rem 0.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-4-g1r .auto-group-ebvc-DXa .frame-1-7N4 {
+  margin-right: 4.8rem;
+  width: 4.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-4-g1r .auto-group-ebvc-DXa .frame-2-bo2 {
+  margin-right: 3.5rem;
+  width: 6.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-4-g1r .auto-group-ebvc-DXa .frame-3-7Fa {
+  margin-right: 4.8rem;
+  width: 5.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-4-g1r .auto-group-ebvc-DXa .frame-4-RGG {
+  width: 3.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-vv9r-BSU .group-4-g1r .frame-10-vTv {
+  width: 11.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #21b573;
+  border-radius: 3.3rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig {
+  width: 116.7rem;
+  height: 48.3rem;
+  position: absolute;
+  left: 13.6rem;
+  top: 22.2rem;
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 2.4rem 2rem 3.1rem 1.9rem;
+  width: 37rem;
+  height: 100%;
+  box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL .rectangle-25-SKn {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 23.4rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-25-bg.png');
+  border-radius: 1.1rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL .modern-psychology-k5a {
+  margin: 0rem 0rem 0.3rem 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL .tk-FY8 {
+  margin: 0rem 0rem 1.9rem 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL .frame-12-mmN {
+  margin: 0rem 0rem 3.4rem 0.4rem;
+  width: 13.7rem;
+  height: 3.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #21b573;
+  border-radius: 3.3rem;
+  cursor: pointer;
+  text-decoration: node;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL .auto-group-uoik-d2t {
+  margin: 0 0.3rem;
+  width: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL .auto-group-uoik-d2t .calendar-outline-4-MUg {
+  margin-right: 0.9rem;
+  width: 1.8rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL .auto-group-uoik-d2t .start-20-april-2021-Ht8 {
+  margin-right: 5.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL .auto-group-uoik-d2t .people-outline-4-252 {
+  margin: 0rem 0.8rem 0rem 0rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-sbsu-vcL .auto-group-uoik-d2t .seats-jVE {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 2.4rem 2rem 3.1rem 1.9rem;
+  width: 37rem;
+  height: 100%;
+  box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .auto-group-gfdn-7kg {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-39-bg.png');
+  border-radius: 1.1rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .auto-group-gfdn-7kg .rectangle-26-G7n {
+  width: 100%;
+  height: 23.4rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-26-bg.png');
+  border-radius: 1.1rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .modern-psychology-vCL {
+  margin: 0rem 0rem 0.3rem 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .tk-324 {
+  margin: 0rem 0rem 1.9rem 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .frame-13-MoS {
+  margin: 0rem 0rem 3.4rem 0.4rem;
+  width: 13.7rem;
+  height: 3.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #21b573;
+  border-radius: 3.3rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .auto-group-dnyt-S4C {
+  margin: 0 0.3rem;
+  width: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .auto-group-dnyt-S4C .calendar-outline-5-AVz {
+  margin-right: 0.9rem;
+  width: 1.8rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .auto-group-dnyt-S4C .start-20-april-2021-VoA {
+  margin-right: 5.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .auto-group-dnyt-S4C .people-outline-5-pqS {
+  margin: 0rem 0.8rem 0rem 0rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-x148-R7A .auto-group-dnyt-S4C .seats-MaU {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 3rem 2.3rem;
+  width: 37rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-4tcg-ZRe {
+  margin: 0rem 8.2rem 1.2rem 0rem;
+  width: calc(100% - 8.2rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-4tcg-ZRe .rectangle-35-6Ra {
+  margin-right: 1.3rem;
+  width: 7rem;
+  height: 7rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-35-bg.png');
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-4tcg-ZRe .auto-group-3ama-DWC {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-4tcg-ZRe .auto-group-3ama-DWC .modern-psychology-yVN {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-4tcg-ZRe .auto-group-3ama-DWC .tk-6K6 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-h5nk-pkt {
+  margin: 0rem 0.2rem 1.2rem 0rem;
+  width: calc(100% - 0.2rem);
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-h5nk-pkt .rectangle-36-kPe {
+  width: 7rem;
+  height: 7rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-36-bg.png');
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-h5nk-pkt .auto-group-i7ks-sjA {
+  box-sizing: border-box;
+  padding-left: 1.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-h5nk-pkt .auto-group-i7ks-sjA .auto-group-zb6c-cwe {
+  margin-right: 6.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-h5nk-pkt .auto-group-i7ks-sjA .auto-group-zb6c-cwe .modern-psychology-MuE {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-h5nk-pkt .auto-group-i7ks-sjA .auto-group-zb6c-cwe .tk-ssa {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-h5nk-pkt .auto-group-i7ks-sjA .icon-outlined-suggested-symbol-x-RPJ {
+  margin-top: 0.6rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-cmun-wcY {
+  margin: 0rem 0.2rem 1.2rem 0rem;
+  width: calc(100% - 0.2rem);
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-cmun-wcY .rectangle-37-rDi {
+  width: 7rem;
+  height: 7rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-37-bg.png');
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-cmun-wcY .auto-group-92kv-afW {
+  box-sizing: border-box;
+  padding-left: 1.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-cmun-wcY .auto-group-92kv-afW .auto-group-f6bn-Ksz {
+  margin-right: 6.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-cmun-wcY .auto-group-92kv-afW .auto-group-f6bn-Ksz .modern-psychology-4Kn {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-cmun-wcY .auto-group-92kv-afW .auto-group-f6bn-Ksz .tk-bKi {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-cmun-wcY .auto-group-92kv-afW .icon-outlined-suggested-symbol-x-8Ke {
+  margin-top: 0.6rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-26ag-rFe {
+  margin: 0rem 0.2rem 1.6rem 0rem;
+  width: calc(100% - 0.2rem);
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-26ag-rFe .rectangle-38-aBe {
+  width: 7rem;
+  height: 7rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-38-bg.png');
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-26ag-rFe .auto-group-fzja-6vg {
+  box-sizing: border-box;
+  padding-left: 1.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-26ag-rFe .auto-group-fzja-6vg .auto-group-i2ul-4Mi {
+  margin-right: 6.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-26ag-rFe .auto-group-fzja-6vg .auto-group-i2ul-4Mi .modern-psychology-DEc {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-26ag-rFe .auto-group-fzja-6vg .auto-group-i2ul-4Mi .tk-kkL {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-26ag-rFe .auto-group-fzja-6vg .icon-outlined-suggested-symbol-x-udE {
+  margin-top: 0.6rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .line-1-S7N {
+  margin: 0rem 0rem 1.3rem 0.2rem;
+  width: 32.1rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-st3r-Yw6 {
+  margin: 0rem 0rem 1.3rem 8.3rem;
+  width: calc(100% - 8.3rem);
+  height: 3.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-st3r-Yw6 .auto-group-tbve-tEG {
+  margin-right: 9.6rem;
+  width: 7.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-st3r-Yw6 .auto-group-tbve-tEG .sub-total-dhe {
+  width: 7.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-st3r-Yw6 .auto-group-tbve-tEG .items-Ypc {
+  width: 3.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0;
+  top: 2rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(88, 88, 89, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .auto-group-st3r-Yw6 .tk-f8Y {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-xakl-zig .auto-group-mvip-rXE .frame-19-zwW {
+  margin-left: 19.7rem;
+  width: 12.4rem;
+  height: 3.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #21b573;
+  border-radius: 3.3rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS {
+  width: 77.1rem;
+  height: 48.3rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 73.5rem;
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 2.4rem 2rem 3.1rem 1.9rem;
+  width: 37rem;
+  height: 100%;
+  box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc .rectangle-27-5Lg {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 23.4rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-27-bg.png');
+  border-radius: 1.1rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc .modern-psychology-Q84 {
+  margin: 0rem 0rem 0.3rem 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc .tk-vMJ {
+  margin: 0rem 0rem 1.9rem 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc .frame-15-Ect {
+  margin: 0rem 0rem 3.4rem 0.4rem;
+  width: 13.7rem;
+  height: 3.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #21b573;
+  border-radius: 3.3rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc .auto-group-jqsw-WaQ {
+  margin: 0 0.3rem;
+  width: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc .auto-group-jqsw-WaQ .calendar-outline-6-rPN {
+  margin-right: 0.9rem;
+  width: 1.8rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc .auto-group-jqsw-WaQ .start-20-april-2021-nXv {
+  margin-right: 5.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc .auto-group-jqsw-WaQ .people-outline-6-v8L {
+  margin: 0rem 0.8rem 0rem 0rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-p9rn-AUc .auto-group-jqsw-WaQ .seats-dHe {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe {
+  box-sizing: border-box;
+  padding: 2.4rem 2rem 3.1rem 1.9rem;
+  width: 37rem;
+  height: 100%;
+  box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe .rectangle-30-quW {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 23.4rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-30-bg.png');
+  border-radius: 1.1rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe .modern-psychology-mYG {
+  margin: 0rem 0rem 0.3rem 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe .tk-J2Q {
+  margin: 0rem 0rem 1.9rem 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe .frame-16-2UC {
+  margin: 0rem 0rem 3.4rem 0.4rem;
+  width: 13.7rem;
+  height: 3.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #21b573;
+  border-radius: 3.3rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe .auto-group-nleg-6U4 {
+  margin: 0 0.3rem;
+  width: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe .auto-group-nleg-6U4 .calendar-outline-7-38Q {
+  margin-right: 0.9rem;
+  width: 1.8rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe .auto-group-nleg-6U4 .start-20-april-2021-NwN {
+  margin-right: 5.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe .auto-group-nleg-6U4 .people-outline-7-7PA {
+  margin: 0rem 0.8rem 0rem 0rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-htvl-qBS .auto-group-de1a-vXe .auto-group-nleg-6U4 .seats-e8C {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 {
+  width: 77.1rem;
+  height: 48.3rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 124.8rem;
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 2.4rem 2rem 3.1rem 1.9rem;
+  width: 37rem;
+  height: 100%;
+  box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA .rectangle-33-zLU {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 23.4rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-33-bg.png');
+  border-radius: 1.1rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA .modern-psychology-Wpc {
+  margin: 0rem 0rem 0.3rem 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA .tk-qM6 {
+  margin: 0rem 0rem 1.9rem 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA .frame-17-MqE {
+  margin: 0rem 0rem 3.4rem 0.4rem;
+  width: 13.7rem;
+  height: 3.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #21b573;
+  border-radius: 3.3rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA .auto-group-mrwn-S5z {
+  margin: 0 0.3rem;
+  width: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA .auto-group-mrwn-S5z .calendar-outline-8-me4 {
+  margin-right: 0.9rem;
+  width: 1.8rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA .auto-group-mrwn-S5z .start-20-april-2021-7C8 {
+  margin-right: 5.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA .auto-group-mrwn-S5z .people-outline-8-qdv {
+  margin: 0rem 0.8rem 0rem 0rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-wysz-HBA .auto-group-mrwn-S5z .seats-wwr {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz {
+  box-sizing: border-box;
+  padding: 2.4rem 2rem 3.1rem 1.9rem;
+  width: 37rem;
+  height: 100%;
+  box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz .rectangle-34-ZyE {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 23.4rem;
+  background-color: #cfb6b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-34-bg.png');
+  border-radius: 1.1rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz .modern-psychology-JA8 {
+  margin: 0rem 0rem 0.3rem 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz .tk-PBa {
+  margin: 0rem 0rem 1.9rem 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz .frame-18-ufi {
+  margin: 0rem 0rem 3.4rem 0.4rem;
+  width: 13.7rem;
+  height: 3.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #21b573;
+  border-radius: 3.3rem;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz .auto-group-nmxg-zBN {
+  margin: 0 0.3rem;
+  width: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz .auto-group-nmxg-zBN .calendar-outline-9-iNG {
+  margin-right: 0.9rem;
+  width: 1.8rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz .auto-group-nmxg-zBN .start-20-april-2021-Sp4 {
+  margin-right: 5.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz .auto-group-nmxg-zBN .people-outline-9-Nxc {
+  margin: 0rem 0.8rem 0rem 0rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .auto-group-j58q-kS8 .auto-group-ysrt-3jz .auto-group-nmxg-zBN .seats-JrG {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #585859;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .all-courses-DTS {
+  width: 20.8rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 13.7rem;
+  top: 14rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #413960;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-page-Y8c .auto-group-pcbe-eSY .icon-outlined-suggested-symbol-x-XU8 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 125.9rem;
+  top: 24.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.course-page-Y8c .auto-group-gkhi-3SU {
+  box-sizing: border-box;
+  padding: 5.5rem 13.7rem 2.7rem 13.5rem;
+  width: 144.1rem;
+  height: 36.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #272530;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-kesn-kbn {
+  margin: 0rem 7.2rem 11.9rem 0rem;
+  width: 36.6rem;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-kesn-kbn .group-2-Hbi {
+  margin: 0rem 16.8rem 4.9rem 0rem;
+  width: calc(100% - 16.8rem);
+  display: flex;
+  align-items: center;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-kesn-kbn .group-2-Hbi .frame-1nc {
+  margin-right: 0.8rem;
+  width: 7.2rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-kesn-kbn .group-2-Hbi .e-school-kkC {
+  margin-top: 0.1rem;
+  font-size: 2.4857rem;
+  font-weight: 700;
+  line-height: 1.185;
+  color: #56548c;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-kesn-kbn .millions-of-people-of-all-ages-and-from-around-the-world-are-improving-their-lives-with-us-Uw6 {
+  max-width: 36.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-u4bv-ZSk {
+  margin-right: 3.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-u4bv-ZSk .course-graphic-design-web-design-business-marketing-engineering-i4k {
+  margin: 0rem 5rem 7.7rem 0rem;
+  max-width: 12.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-u4bv-ZSk .course-graphic-design-web-design-business-marketing-engineering-i4k .course-graphic-design-web-design-business-marketing-engineering-i4k-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-u4bv-ZSk .course-graphic-design-web-design-business-marketing-engineering-i4k .course-graphic-design-web-design-business-marketing-engineering-i4k-sub-1 {
+}
+.course-page-Y8c .auto-group-gkhi-3SU .auto-group-u4bv-ZSk .copyright-2024-21daysofcodecom-mSL {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #cdcdcd;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .terms-graphic-design-web-design-business-marketing-engineering-gZJ {
+  margin: 0rem 16.1rem 10.7rem 0rem;
+  max-width: 12.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .terms-graphic-design-web-design-business-marketing-engineering-gZJ .terms-graphic-design-web-design-business-marketing-engineering-gZJ-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.course-page-Y8c .auto-group-gkhi-3SU .terms-graphic-design-web-design-business-marketing-engineering-gZJ .terms-graphic-design-web-design-business-marketing-engineering-gZJ-sub-1 {
+}
+.course-page-Y8c .auto-group-gkhi-3SU .useful-link-graphic-design-web-design-business-marketing-engineering-GXW {
+  margin-bottom: 10.7rem;
+  max-width: 12.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-page-Y8c .auto-group-gkhi-3SU .useful-link-graphic-design-web-design-business-marketing-engineering-GXW .useful-link-graphic-design-web-design-business-marketing-engineering-GXW-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.course-page-Y8c .auto-group-gkhi-3SU .useful-link-graphic-design-web-design-business-marketing-engineering-GXW .useful-link-graphic-design-web-design-business-marketing-engineering-GXW-sub-1 {
+}
